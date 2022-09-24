@@ -1,0 +1,24 @@
+.small-t {
+  font-size: 16px;
+}
+
+.div-block-16 {
+  background-image: url("../imgs/phon.jpg");
+}
+
+.services > li {
+  color: green;
+}
+
+.s-adv__card {
+  padding: 54px 18px 22px;
+}
+
+
+.div-block-15 {
+  background-image: url("../imgs/g-p0.jpg");
+}
+
+.div-block-15.m_footer {
+  background-image: url("../imgs/g-p1.jpg");
+}
